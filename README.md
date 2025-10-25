@@ -13,5 +13,5 @@ Estrutura do repositório
     - agente/ (interfaces e adaptadores entre agente e ambiente)
     - ambiente/ (modelo do ambiente e estados)
     - jogo/ (regras e mecânica do jogo)
-    - maqest/ (máquinas/estados e orquestração)
+    - maqest/ (máquinas/estados)
 - README.md (este ficheiro)
